@@ -5,7 +5,7 @@ phonebook = {'Chris':'555−1111',
              'Joanne':'555−3333'}
 
 
-'''
+
 print()
 print('*****  start section 1 - print dictionary ********')
 print()
@@ -174,7 +174,7 @@ print()
 print('*****  end section 8 ********')
 print()
 
-'''
+
 
 print()
 print('*****  start section 9 - using random and converting to list ********')
